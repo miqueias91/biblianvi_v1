@@ -1,0 +1,4 @@
+#Sat Oct 23 00:24:30 BRT 2021
+base.0=C\:\\xampp\\htdocs\\biblia\\biblianvi_v1\\platforms\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

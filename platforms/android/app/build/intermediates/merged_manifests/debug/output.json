@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.phonegap.teindico",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 10038,
+        "versionName": "1.0.38",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.phonegap.teindico",
+        "split": "",
+        "minSdkVersion": "19"
+      }
+    }
+  ]
+}

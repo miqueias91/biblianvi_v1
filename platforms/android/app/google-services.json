@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "144799182566",
+    "firebase_url": "https://biblia-sagrada-nvi-4be54.firebaseio.com",
+    "project_id": "biblia-sagrada-nvi-4be54",
+    "storage_bucket": "biblia-sagrada-nvi-4be54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144799182566:android:e5af051e6d770b7d645527",
+        "android_client_info": {
+          "package_name": "com.phonegap.teindico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144799182566-s69tdhthnh05av3v75nmqkf470ncp51k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuexZEx4l_6BmsPd9d0b_8KHpUHo3yrMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144799182566-s69tdhthnh05av3v75nmqkf470ncp51k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7091486462236476~4004927104"
+    }
+  ],
+  "configuration_version": "1"
+}
