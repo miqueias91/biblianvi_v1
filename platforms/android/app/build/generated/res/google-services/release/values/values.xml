@@ -7,4 +7,5 @@
     <string name="google_app_id" translatable="false">1:144799182566:android:e5af051e6d770b7d645527</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAuexZEx4l_6BmsPd9d0b_8KHpUHo3yrMo</string>
     <string name="google_storage_bucket" translatable="false">biblia-sagrada-nvi-4be54.appspot.com</string>
+    <string name="project_id" translatable="false">biblia-sagrada-nvi-4be54</string>
 </resources>
