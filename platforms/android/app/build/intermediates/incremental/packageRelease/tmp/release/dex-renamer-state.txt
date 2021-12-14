@@ -1,4 +1,4 @@
-#Tue Dec 07 08:41:04 BRT 2021
+#Tue Dec 14 12:29:28 BRT 2021
 base.0=/var/www/html/biblia/biblianvi_v1/platforms/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
