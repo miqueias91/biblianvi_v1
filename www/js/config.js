@@ -2,7 +2,7 @@ var config = new Object();
 //VERSAO
 config.titulo = "Bíblia Sagrada NVI - V1";
 config.url = "http://bit.ly/2PCUN2d";
-config.versao = "1.0.45";
+config.versao = "1.0.46";
 config.app_ = "nvi";
 config.versao_biblia = "nvi";
 
