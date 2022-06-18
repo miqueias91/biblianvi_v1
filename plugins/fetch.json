@@ -129,16 +129,6 @@
     "is_top_level": true,
     "variables": {}
   },
-  "cordova-plugin-admob-free": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-admob-free"
-    },
-    "is_top_level": true,
-    "variables": {
-      "ADMOB_APP_ID": "ca-app-pub-7091486462236476~4004927104"
-    }
-  },
   "cordova-plugin-insomnia": {
     "source": {
       "type": "registry",
@@ -170,5 +160,15 @@
     },
     "is_top_level": true,
     "variables": {}
+  },
+  "admob-plus-cordova": {
+    "source": {
+      "type": "registry",
+      "id": "admob-plus-cordova"
+    },
+    "is_top_level": true,
+    "variables": {
+      "APP_ID_ANDROID": "ca-app-pub-7091486462236476~4004927104"
+    }
   }
 }
