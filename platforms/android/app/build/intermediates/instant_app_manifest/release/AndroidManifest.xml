@@ -3,8 +3,8 @@
     package="com.phonegap.teindico"
     android:hardwareAccelerated="true"
     android:targetSandboxVersion="2"
-    android:versionCode="10050"
-    android:versionName="1.0.50" >
+    android:versionCode="10052"
+    android:versionName="1.0.52" >
 
     <uses-sdk
         android:minSdkVersion="19"
