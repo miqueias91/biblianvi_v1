@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/var/www/html/biblia/biblianvi_v1/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/var/www/html/aplicativos/biblianvi_v1/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/miqueias/.gradle/caches/transforms-2/files-2.1/06a648cc8d56c95a1b2599c40bd27720/jetified-play-services-ads-20.4.0/res/values/values.xml",
@@ -20,6 +20,23 @@
                         "endLines": "334,336,338,340,342,344,346,348,349,350,351,352,353,354",
                         "endColumns": "29,58,17,80,24,81,48,41,76,37,38,52,67,38",
                         "endOffsets": "23593,23811,23986,24220,24407,24630,24819,24946,25023,25061,25100,25153,25221,25260"
+                    }
+                },
+                {
+                    "source": "/var/www/html/aplicativos/biblianvi_v1/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "175,55,116",
+                        "endColumns": "63,60,58",
+                        "endOffsets": "234,111,170"
+                    },
+                    "to": {
+                        "startLines": "304,305,332",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "20026,20090,23352",
+                        "endColumns": "63,60,58",
+                        "endOffsets": "20085,20146,23406"
                     }
                 },
                 {
@@ -61,20 +78,20 @@
                     }
                 },
                 {
-                    "source": "/var/www/html/biblia/biblianvi_v1/platforms/android/app/src/main/res/values/strings.xml",
+                    "source": "/var/www/html/aplicativos/biblianvi_v1/platforms/android/app/build/generated/res/google-services/release/values/values.xml",
                     "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "175,55,116",
-                        "endColumns": "63,60,58",
-                        "endOffsets": "234,111,170"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,318,400,504,613,733,841",
+                        "endColumns": "143,118,81,103,108,119,107,84",
+                        "endOffsets": "194,313,395,499,608,728,836,921"
                     },
                     "to": {
-                        "startLines": "304,305,332",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "20026,20090,23352",
-                        "endColumns": "63,60,58",
-                        "endOffsets": "20085,20146,23406"
+                        "startLines": "324,326,327,328,329,330,331,347",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "22484,22710,22829,22911,23015,23124,23244,24824",
+                        "endColumns": "143,118,81,103,108,119,107,84",
+                        "endOffsets": "22623,22824,22906,23010,23119,23239,23347,24904"
                     }
                 },
                 {
@@ -147,23 +164,6 @@
                         "endLines": "2,1870,2637,2726",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "161,129068,170503,175714"
-                    }
-                },
-                {
-                    "source": "/var/www/html/biblia/biblianvi_v1/platforms/android/app/build/generated/res/google-services/release/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,318,400,504,613,733,841",
-                        "endColumns": "143,118,81,103,108,119,107,84",
-                        "endOffsets": "194,313,395,499,608,728,836,921"
-                    },
-                    "to": {
-                        "startLines": "324,326,327,328,329,330,331,347",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "22484,22710,22829,22911,23015,23124,23244,24824",
-                        "endColumns": "143,118,81,103,108,119,107,84",
-                        "endOffsets": "22623,22824,22906,23010,23119,23239,23347,24904"
                     }
                 },
                 {

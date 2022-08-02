@@ -10,8 +10,8 @@
       "apkData": {
         "type": "MAIN",
         "splits": [],
-        "versionCode": 10052,
-        "versionName": "1.0.52",
+        "versionCode": 10054,
+        "versionName": "1.0.54",
         "outputFile": "app-release.apk",
         "fullName": "release",
         "baseName": "release",
